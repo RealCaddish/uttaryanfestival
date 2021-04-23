@@ -1,0 +1,17 @@
+{
+"type": "FeatureCollection",
+"name": "kiteshops",
+"features": [
+{ "type": "Feature", "properties": { "Name": "Babla Kites - Original Kite Manja Store, Fancy Kites for Competition" }, "geometry": { "type": "Point", "coordinates": [ 72.526, 23.0364, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "M.S. Kite & Manja Maker" }, "geometry": { "type": "Point", "coordinates": [ 72.5956, 23.0041, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Kite shop in ahmedabad" }, "geometry": { "type": "Point", "coordinates": [ 72.5832, 23.0142, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Kite shop in ahmedabad" }, "geometry": { "type": "Point", "coordinates": [ 72.5832, 23.0142, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "PatangDori.com" }, "geometry": { "type": "Point", "coordinates": [ 72.584, 23.0452, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Haider kite shop" }, "geometry": { "type": "Point", "coordinates": [ 72.5856, 23.0174, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Alfi Kite Center" }, "geometry": { "type": "Point", "coordinates": [ 72.5803, 22.9993, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Amit Seasonal Stores" }, "geometry": { "type": "Point", "coordinates": [ 72.5518, 23.006, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Varsi Kite" }, "geometry": { "type": "Point", "coordinates": [ 72.5833, 23.0142, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Prizam Kites Manufacturer" }, "geometry": { "type": "Point", "coordinates": [ 72.5841, 23.0443, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "warsi kite center" }, "geometry": { "type": "Point", "coordinates": [ 72.5848, 23.0129, 0.0 ] } }
+]
+}
